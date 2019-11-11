@@ -17,7 +17,7 @@ http://stackoverflow.com/questions/9381926/insert-html-into-view-using-angularjs
 #save and cancel edit form
 http://jsfiddle.net/timriley/GVCP2/
 
-#version .8 5/5/2015
+
 Working on:
 fix api url, be careful with file naming (api vs API). On some server it is case sensitive.
 api/v1/...
